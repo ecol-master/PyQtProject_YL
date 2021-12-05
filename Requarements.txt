@@ -1,0 +1,3 @@
+PyQt5
+PIL
+pyqt5-tools
